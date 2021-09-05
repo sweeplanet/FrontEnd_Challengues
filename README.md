@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://sweeplanet.github.io/summarycard/)
+- Solution URL: [https://sweeplanet.github.io/summarycard/](https://sweeplanet.github.io/summarycard/)
 
 ## My process
 
