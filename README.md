@@ -33,8 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://sweeplanet.github.io/summarycard/)
 
 ## My process
 
@@ -46,7 +45,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Daniel Moreno](https://www.your-site.com)
+- Website - [Daniel Moreno](https://www.linkedin.com/in/daniel-moreno-medina-frm-b4ab0b26/)
 - Frontend Mentor - [@sweeplanet](https://www.frontendmentor.io/profile/sweeplanet)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
