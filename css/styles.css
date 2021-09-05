@@ -1,0 +1,137 @@
+/****************************TAG SELECTOR*****************************/
+html {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url(C:/Users/danie/Desktop/WebCourse/Challenges/order-summary-component-main/images/pattern-background-desktop.svg);
+  background-attachment: fixed;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-color: hsl(225, 100%, 94%);
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 0.8rem;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h2{
+  padding-top: 10px;
+}
+
+p{
+    color: hsl(224, 23%, 55%);
+}
+
+/****************************CLASS SELECTOR*****************************/
+.attribution {
+  font-size: 11px;
+  margin: 0;
+  position: relative;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.tabla-card {
+  text-align: center;
+  margin: 50px auto 50px auto;
+  border-radius: 12px;
+  width: 400px;
+  background-color: hsl(225, 100%, 98%);
+  border-spacing: 0;
+}
+
+.div-card {
+  margin: auto;
+}
+
+.description-card {
+  font-size: 1rem;
+  width: 70%;
+  margin: auto auto 30px auto;
+}
+
+.img-hero {
+  /*Con las dos primeras, elimino el espacio entre la imagen y la fila 2 de la tabla*/
+  display: block;
+  align-items: center;
+  border-radius: 12px 12px 0 0;
+  width: 400px;
+  height: 150px;
+  padding: 0;
+  border-spacing: 0;
+  margin: 0;
+}
+
+.change{
+  color: hsl(245, 75%, 52%)
+  font-weight: bold;
+}
+
+.change:hover{
+  color: hsl(224, 23%, 55%);
+}
+
+.cancel{
+  color: hsl(224, 23%, 55%);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.cancel:hover{
+  color: hsl(223, 47%, 23%);
+}
+
+
+
+.BUTTON_ZHX {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: 'Red Hat Display', sans-serif;
+   width: 280px;
+   font-size: 0.8rem;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #3829E0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_ZHX:hover {
+   background: #7280A7;
+   border: solid #7280A7 0;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+
+/****************************ID SELECTOR*****************************/
+#first-column {
+  text-align: right;
+  padding-right: 20px;
+}
+
+#second-column {
+  text-align: left;
+}
+
+#third-column {
+  text-align: left;
+}
+
+#fourth-row{
+  text-align: center;
+  margin-top: 20px;
+}
