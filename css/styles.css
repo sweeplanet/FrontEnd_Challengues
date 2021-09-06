@@ -6,7 +6,9 @@ html {
 }
 
 body {
-  background-image: url(https://github.com/sweeplanet/summarycard/blob/main/images/pattern-background-desktop.svg);   /*../images/pattern-background-desktop.svg*/
+  background-image: url(../images/pattern-background-desktop.svg);
+  /*relative paths doesn't work in github. I don't know the reason*/
+  /*https://github.com/sweeplanet/summarycard/blob/main/images/pattern-background-desktop.svg*/
   background-attachment: fixed;
   background-size: auto;
   background-repeat: no-repeat;
