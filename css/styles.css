@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  background-image: url(../images/pattern-background-desktop.svg);  
+  background-image: url(https://github.com/sweeplanet/summarycard/blob/main/images/pattern-background-desktop.svg);   /*../images/pattern-background-desktop.svg*/
   background-attachment: fixed;
   background-size: auto;
   background-repeat: no-repeat;
