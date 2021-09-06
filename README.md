@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![](summarycard/images/ScreenShoot-SummaryCard.png)
 
 ### Links
 
