@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](summarycard/images/ScreenShoot-SummaryCard.png)
+![summarycard/images/ScreenShoot-SummaryCard.png](summarycard/images/ScreenShoot-SummaryCard.png)
 
 ### Links
 
